@@ -1,7 +1,7 @@
 {
   "name": "my-country-info",
   "version": "0.1.0",
-  "homepage": "https://bcs296.github.io/phase2-practice-project-4",
+  "homepage": "https://bcs296.github.io/phase2-practice-project-3",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
